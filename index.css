@@ -1,0 +1,55 @@
+	h1 {
+    font-family: "Verdana";
+	color:red;
+	text-align: center;
+}
+
+   	p {
+    font-family: "Lucida Console";
+	font-style: italic;
+	color:orange;
+	text-align: left;
+}
+
+    h2 {
+    font-size: 40px;
+	color:yellow;
+	text-align: center;
+}
+
+	p {
+    font-size: 14px;
+	font-style: italic;
+	color:green;
+	text-align: left;
+}
+
+    h3 {
+    font-size: 40px;
+	color:yellow;
+	text-align: center;
+}
+
+	p {
+    font-size: 14px;
+	font-style: italic;
+	color:green;
+	text-align: left;
+}
+    
+    h4 {
+    font-size: 40px;
+	color:yellow;
+	text-align: center;
+}
+
+	p {
+    font-size: 14px;
+	font-style: italic;
+	color:green;
+	text-align: left;
+}
+
+	body {
+		background-image: url("fon.jpg");
+	}

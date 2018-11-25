@@ -1,0 +1,17 @@
+	h1 {
+    font-family: "Verdana";
+	color:red;
+	text-align: center;
+}
+
+	p {
+    font-size: 14px;
+	font-style: italic;
+	color:green;
+	text-align: left;
+	font-family: "Lucida Console";
+}
+
+ body {
+ 	background-image: url("fon3.jpg");
+ }
